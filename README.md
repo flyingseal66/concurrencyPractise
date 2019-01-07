@@ -1,3 +1,1 @@
-# concurrencyAndParallelism
-
-Practise concurrency and parallelism
+concurrency practises
